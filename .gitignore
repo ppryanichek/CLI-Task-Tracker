@@ -1,5 +1,11 @@
-.class
-.vscode
-.mf
-.jar
-.json
+# Compiled class files
+*.class
+
+# VS Code
+.vscode/
+
+#Maven
+.xml
+
+# MacOS
+.DS_Store
